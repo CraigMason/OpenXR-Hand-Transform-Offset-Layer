@@ -1,0 +1,6 @@
+build/
+src/layer_config.hpp
+src/manifest.json
+.vs/
+.vscode/
+OpenXR-SDK/

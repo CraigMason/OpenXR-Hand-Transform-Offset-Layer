@@ -1,0 +1,5 @@
+yaw=180
+pitch=-90
+translation_x=-0.005
+translation_y=-0.25
+translation_z=-0.35
